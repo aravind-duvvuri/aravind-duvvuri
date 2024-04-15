@@ -10,7 +10,7 @@
 🚀 I'm excited to share my projects and contributions on GitHub, where I hope to connect with like-minded individuals, collaborate on interesting projects, and contribute to the vibrant data science community.
 
 Let's connect and embark on this data-driven journey together!
- * You can find me on [LinkedIn](https://www.linkedin.com/in/aravind-duvvuri-88a84a18a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWbqk8JlvTsaMvrpEsYoOFw%3D%3D) and do follow me :)
+ * You can find me on [LinkedIn](https://www.linkedin.com/in/aravind-duvvuri-88a84a18a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzWn%2BAfLXQZWVl7JCel%2BY3w%3D%3D) and do follow me :)
  * You can also mail me at aravindduvvuri4@gmail.com
 <!---
 aravind-duvvuri/aravind-duvvuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
