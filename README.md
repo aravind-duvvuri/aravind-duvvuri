@@ -1,5 +1,5 @@
 ## Aravind Duvvuri
-👋 Hello! I'm Aravind, a passionate data science and machine learning enthusiast with over 3 years of experience in the analytics field. Throughout my journey, I've been driven by a curiosity to explore data, uncover insights, and build predictive models that solve real-world problems.
+👋 Hello! I'm Aravind, a passionate data science and machine learning enthusiast with over 3 years of experience in the analytics field. I have a Bachelors degree(B.Tech) in Computer Science and Engineering with Specialization in Data Analytics. Throughout my journey, I've been driven by a curiosity to explore data, uncover insights, and build predictive models that solve real-world problems.
 
 📊 In my career, I've had the opportunity to work on a diverse range of projects. My expertise lies in leveraging Python, SQL, Power BI and Excel to manipulate, analyze, and visualize data to derive actionable insights.
 
